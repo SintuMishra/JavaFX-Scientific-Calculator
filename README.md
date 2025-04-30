@@ -1,6 +1,10 @@
 # JavaFX Scientific Calculator
 
-A JavaFX-based scientific calculator with GUI features.
+This is a JavaFX-based scientific calculator with a dark mode, keyboard support, and scientific functions.
+
+## Screenshot
+
+![Calculator Screenshot](calculator.png)
 
 ## ✨ Features
 
